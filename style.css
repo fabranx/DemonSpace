@@ -1,0 +1,12 @@
+@font-face {
+  font-family: PixelLCD;
+  src: url('./assets/Pixel-LCD-7.woff');
+}
+
+html {
+  background-color: rgb(12, 12, 12);
+}
+
+body {
+  margin: 0;
+}
